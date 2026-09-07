@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vespermann;Maik;;;
+FN:Maik Vespermann
+ORG:UKM
+TITLE:Personalrat
+TEL;TYPE=WORK,VOICE:+49 251 8352529
+EMAIL;TYPE=WORK:maik.vespermann@ukmuenster.de
+ADR;TYPE=WORK:;;Domagkstr. 14;Münster;;48149;Deutschland
+END:VCARD
