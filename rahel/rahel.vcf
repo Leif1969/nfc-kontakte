@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Roß;Rahel;;;
+FN:Rahel Roß
+ORG:UKM
+TITLE:Personalrat
+TEL;TYPE=WORK,VOICE:0251-8356931
+EMAIL;TYPE=WORK:rahel.ross@ukmuenster.de
+ADR;TYPE=WORK:;;Domagkstr. 14;Münster;;48149;Deutschland
+END:VCARD
