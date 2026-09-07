@@ -1,1 +1,10 @@
-
+BEGIN:VCARD
+VERSION:3.0
+N:Mefus;Stefan;;;
+FN:Stefan Mefus
+ORG:UKM
+TITLE:Personalrat
+TEL;TYPE=WORK,VOICE:0251-8355434
+EMAIL;TYPE=WORK:stefan.mefus@ukmuenster.de
+ADR;TYPE=WORK:;;Domagkstr. 14;Münster;;48149;Deutschland
+END:VCARD
