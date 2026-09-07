@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Thünemann;Andrea;;;
+FN:Andrea Thünemann
+ORG:UKM
+TITLE:Personalrat
+TEL;TYPE=WORK,VOICE:0251-8352567
+EMAIL;TYPE=WORK:andrea.thuenemann@ukmuenster.de
+ADR;TYPE=WORK:;;Domagkstr. 14;Münster;;48149;Deutschland
+END:VCARD
