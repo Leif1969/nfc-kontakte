@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Klaan;Paula;;;
+FN:Paula Klaan
+ORG:UKM
+TITLE:Personalrat
+TEL;TYPE=WORK,VOICE:0251-8355495
+EMAIL;TYPE=WORK:paula.klaan@ukmuenster.de
+ADR;TYPE=WORK:;;Domagkstr. 14;Münster;;48149;Deutschland
+END:VCARD
